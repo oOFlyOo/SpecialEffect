@@ -1,0 +1,6 @@
+$#include "cocos2d.h"
+$USING_NS_CC;
+$#include "LuaCocos2dEx.h"
+
+$pfile "CCDictionary.pkg"
+$pfile "CCFileUtils.pkg"

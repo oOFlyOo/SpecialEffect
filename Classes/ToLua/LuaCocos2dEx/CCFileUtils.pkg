@@ -1,0 +1,4 @@
+class CCFileUtils
+{
+    virtual bool isFileExist(const std::string& strFilePath) = 0;
+};

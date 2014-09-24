@@ -1,0 +1,4 @@
+class CCDictionary : public CCObject
+{
+    bool writeToFile(const char *fullPath);
+};

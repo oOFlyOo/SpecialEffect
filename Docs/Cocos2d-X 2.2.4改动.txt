@@ -1,0 +1,5 @@
+release版改动：
+
+1、CCLOG将relase的宏定义改成和debug版一样
+
+2、CHECK_GL_ERROR_DEBUG将release的宏定义改成和debug版一样
